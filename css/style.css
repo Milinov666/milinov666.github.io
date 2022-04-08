@@ -1,0 +1,67 @@
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background: rgb(138,134,81);
+    background: linear-gradient(0deg, rgba(138,134,81,1) 0%, rgba(9,121,104,1) 27%, rgba(0,255,220,0.9682247899159664) 100%);
+}
+
+.content {
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background: white;
+    width: 800px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.film {
+    width: 500px;
+    border-radius: 10px;
+  box-shadow: 0 0 10px #444;
+}
+
+body {
+    background: #d6eaf8;
+  }
+  .button {
+
+    display: inline-block;
+    color: rgb(192, 192, 192);
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgb(85, 0, 0);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+  }
+
+  .autor {
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.452);
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: white;
+    background-size: 500% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+  }
+  .autor:hover {
+    background-position: right center;
+  }
+
+   .textt {
+     margin: auto;
+   }
